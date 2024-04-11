@@ -30,10 +30,9 @@ Map Description:
 [<img src="meta/preview_levelshots/9.jpg" width="250"/>](meta/preview_levelshots/9.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 20/03/2017  | final | [💾](https://github.com/Masmblr/map-Sol_src/releases/) |
-
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 20/03/2017  | release |
 ## How-To
 **Binary**:
 1. Download the release package.
@@ -225,7 +224,7 @@ textures\sol\eq3_pillargrooves.jpg <sup>[2](#Credit-2)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
